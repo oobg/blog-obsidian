@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "371c2d9f2cf50ece",
+        "id": "42c42aef2465234b",
         "type": "tabs",
         "children": [
           {
-            "id": "98b9b4258e4e4a54",
+            "id": "331b2c77ac0362c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,18 +22,18 @@
         ]
       },
       {
-        "id": "e84fc38703828e57",
+        "id": "d0d2202aa497ab40",
         "type": "tabs",
         "children": [
           {
-            "id": "a8fae04132261429",
+            "id": "145935246c797cae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Computer Science/01. Internet/01. 인터넷은 어떻게 동작하는가?.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -164,14 +164,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "134e5e5880fef62f",
+  "active": "331b2c77ac0362c8",
   "lastOpenFiles": [
+    "142.250.190.78.md",
+    "Computer Science/01. Internet/01. 인터넷은 어떻게 동작하는가?.md",
     "media/Computer Science/connect-network-infra.png",
     "media/Computer Science/connect-modem.png",
     "media/Computer Science/connect-router-multi.png",
     "media/Computer Science/connect-router-to-router.png",
     "Computer Science/00. loadmap/성장하는 개발자가 되고 싶다.md",
-    "Computer Science/01. Internet/01. 인터넷은 어떻게 동작하는가?.md",
     "media/Computer Science/connect-router.png",
     "media/Computer Science/connect-direct-multi.png",
     "media/Computer Science/connect-direct.png",
