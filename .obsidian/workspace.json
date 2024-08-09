@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "58e4bd606553f29d",
+    "type": "split",
+    "children": [
+      {
+        "id": "371c2d9f2cf50ece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98b9b4258e4e4a54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "language/git/Git Commit message rules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a624915563bb9376",
+    "type": "split",
+    "children": [
+      {
+        "id": "a769d556a888790d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "134e5e5880fef62f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "beedb4b784f3081f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f31710ae05238243",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f04a83ae5164d61",
+    "type": "split",
+    "children": [
+      {
+        "id": "77976892e6138f82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13f71f5ddf0d7484",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "language/git/Git Commit message rules.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0133c06e776d09eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "language/git/Git Commit message rules.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d470b7c994c8eeb9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9200386c3cd814df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "language/git/Git Commit message rules.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "13f71f5ddf0d7484",
+  "lastOpenFiles": [
+    "project/프로젝트 정리.md",
+    "language/git/Git Commit message rules.md",
+    "language/git",
+    "language/javascript/test file.md",
+    "project",
+    "library/ckeditor5",
+    "library",
+    "language",
+    "README.md",
+    "docker/Docker 란?.md",
+    "docker",
+    "template",
+    "media",
+    "trash",
+    "language/javascript"
+  ]
+}
