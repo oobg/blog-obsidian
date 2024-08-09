@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 237.5
   },
   "right": {
     "id": "6f04a83ae5164d61",
@@ -146,7 +146,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "13f71f5ddf0d7484",
+  "active": "98b9b4258e4e4a54",
   "lastOpenFiles": [
     "project/프로젝트 정리.md",
     "language/git/Git Commit message rules.md",
