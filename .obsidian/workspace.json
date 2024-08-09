@@ -15,7 +15,25 @@
               "state": {
                 "file": "language/git/Git Commit message rules.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e84fc38703828e57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8fae04132261429",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "language/git/Git Commit message rules.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -146,7 +164,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "98b9b4258e4e4a54",
+  "active": "a8fae04132261429",
   "lastOpenFiles": [
     "project/프로젝트 정리.md",
     "language/git/Git Commit message rules.md",
