@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/01. Internet/도메인 이름이란?.md",
+                "file": "Computer Science/01. Internet/인터넷은 어떻게 동작하는가?.md",
                 "mode": "source",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/01. Internet/도메인 이름이란?.md",
+                "file": "Computer Science/01. Internet/인터넷은 어떻게 동작하는가?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/01. Internet/도메인 이름이란?.md",
+                "file": "Computer Science/01. Internet/인터넷은 어떻게 동작하는가?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/01. Internet/도메인 이름이란?.md"
+                "file": "Computer Science/01. Internet/인터넷은 어떻게 동작하는가?.md"
               }
             }
           }
@@ -166,6 +166,7 @@
   },
   "active": "98b9b4258e4e4a54",
   "lastOpenFiles": [
+    "Computer Science/01. Internet/도메인 이름이란?.md",
     "Computer Science/00. loadmap/성장하는 개발자가 되고 싶다.md",
     "language/git/Git Commit message rules.md",
     "media/Computer Science/intro(kr).png",
@@ -176,7 +177,6 @@
     "media/Computer Science/01.Internet/intro(kr).png.crdownload",
     "media/Computer Science/01.Internet",
     "media/Computer Science",
-    "Computer Science/01. Internet/도메인 이름이란?.md",
     "Computer Science/01. Internet/DNS, 그리고 동작 방식.md",
     "Computer Science/01. Internet/브라우저, 그리고 동작 방식.md",
     "Computer Science/01. Internet/HTTP 란?.md",
