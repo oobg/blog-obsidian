@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/01. Internet/01. 인터넷은 어떻게 동작하는가?.md",
+                "file": "Computer Science/01. Internet/02. HTTP 란?.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/01. Internet/01. 인터넷은 어떻게 동작하는가?.md",
+                "file": "Computer Science/01. Internet/02. HTTP 란?.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/01. Internet/01. 인터넷은 어떻게 동작하는가?.md",
+                "file": "Computer Science/01. Internet/02. HTTP 란?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/01. Internet/01. 인터넷은 어떻게 동작하는가?.md",
+                "file": "Computer Science/01. Internet/02. HTTP 란?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/01. Internet/01. 인터넷은 어떻게 동작하는가?.md"
+                "file": "Computer Science/01. Internet/02. HTTP 란?.md"
               }
             }
           }
@@ -166,13 +166,14 @@
   },
   "active": "331b2c77ac0362c8",
   "lastOpenFiles": [
-    "142.250.190.78.md",
+    "Computer Science/00. loadmap/성장하는 개발자가 되고 싶다.md",
+    "Computer Science/01. Internet/02. HTTP 란?.md",
     "Computer Science/01. Internet/01. 인터넷은 어떻게 동작하는가?.md",
+    "142.250.190.78.md",
     "media/Computer Science/connect-network-infra.png",
     "media/Computer Science/connect-modem.png",
     "media/Computer Science/connect-router-multi.png",
     "media/Computer Science/connect-router-to-router.png",
-    "Computer Science/00. loadmap/성장하는 개발자가 되고 싶다.md",
     "media/Computer Science/connect-router.png",
     "media/Computer Science/connect-direct-multi.png",
     "media/Computer Science/connect-direct.png",
@@ -188,7 +189,6 @@
     "media/Computer Science",
     "Computer Science/01. Internet/DNS, 그리고 동작 방식.md",
     "Computer Science/01. Internet/브라우저, 그리고 동작 방식.md",
-    "Computer Science/01. Internet/HTTP 란?.md",
     "Computer Science/01. Internet",
     "Computer Science",
     "project/프로젝트 정리.md",
