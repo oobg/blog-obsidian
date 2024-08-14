@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "42c42aef2465234b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "331b2c77ac0362c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/01. Internet/02. HTTP 란?.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "d0d2202aa497ab40",
         "type": "tabs",
         "children": [
@@ -31,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/01. Internet/02. HTTP 란?.md",
+                "file": "Computer Science/01. Internet/01. 인터넷은 어떻게 동작하는가?.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/01. Internet/02. HTTP 란?.md",
+                "file": "Computer Science/01. Internet/01. 인터넷은 어떻게 동작하는가?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/01. Internet/02. HTTP 란?.md",
+                "file": "Computer Science/01. Internet/01. 인터넷은 어떻게 동작하는가?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/01. Internet/02. HTTP 란?.md"
+                "file": "Computer Science/01. Internet/01. 인터넷은 어떻게 동작하는가?.md"
               }
             }
           }
@@ -164,25 +146,27 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "331b2c77ac0362c8",
+  "active": "145935246c797cae",
   "lastOpenFiles": [
+    "media/Computer Science/00. loadmap/frontend(kr).png",
+    "media/Computer Science/01. Internet/connect-direct.png",
     "Computer Science/00. loadmap/성장하는 개발자가 되고 싶다.md",
+    "media/Computer Science/01. Internet",
+    "media/Computer Science/00. loadmap/intro(kr).png",
     "Computer Science/01. Internet/02. HTTP 란?.md",
+    "media/Computer Science/00. loadmap",
+    "language/git/Git Commit message rules.md",
     "Computer Science/01. Internet/01. 인터넷은 어떻게 동작하는가?.md",
     "142.250.190.78.md",
-    "media/Computer Science/connect-network-infra.png",
-    "media/Computer Science/connect-modem.png",
-    "media/Computer Science/connect-router-multi.png",
-    "media/Computer Science/connect-router-to-router.png",
-    "media/Computer Science/connect-router.png",
-    "media/Computer Science/connect-direct-multi.png",
-    "media/Computer Science/connect-direct.png",
+    "media/Computer Science/01. Internet/connect-network-infra.png",
+    "media/Computer Science/01. Internet/connect-modem.png",
+    "media/Computer Science/01. Internet/connect-router-multi.png",
+    "media/Computer Science/01. Internet/connect-router-to-router.png",
+    "media/Computer Science/01. Internet/connect-router.png",
+    "media/Computer Science/01. Internet/connect-direct-multi.png",
     "Computer Science/01. Internet/도메인 이름이란?.md",
-    "language/git/Git Commit message rules.md",
-    "media/Computer Science/intro(kr).png",
     "Computer Science/00. loadmap",
     "Computer Science/01. Internet/호스팅이란?.md",
-    "media/Computer Science/frontend(kr).png",
     "media/Computer Science/01.Internet/frontend(kr).png.crdownload",
     "media/Computer Science/01.Internet/intro(kr).png.crdownload",
     "media/Computer Science/01.Internet",
@@ -194,8 +178,6 @@
     "project/프로젝트 정리.md",
     "language/git",
     "language/javascript/test file.md",
-    "project",
-    "library/ckeditor5",
     "README.md",
     "docker/Docker 란?.md"
   ]
