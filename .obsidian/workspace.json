@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/01. Internet/01. 인터넷은 어떻게 동작하는가?.md",
+                "file": "Computer Science/01. Internet/02. HTTP 란?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/01. Internet/01. 인터넷은 어떻게 동작하는가?.md",
+                "file": "Computer Science/01. Internet/02. HTTP 란?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/01. Internet/01. 인터넷은 어떻게 동작하는가?.md",
+                "file": "Computer Science/01. Internet/02. HTTP 란?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/01. Internet/01. 인터넷은 어떻게 동작하는가?.md"
+                "file": "Computer Science/01. Internet/02. HTTP 란?.md"
               }
             }
           }
@@ -148,15 +148,16 @@
   },
   "active": "145935246c797cae",
   "lastOpenFiles": [
+    "Computer Science/01. Internet/01. 인터넷은 어떻게 동작하는가?.md",
+    "Computer Science/01. Internet/02. HTTP 란?.md",
+    "Computer Science/01. Internet/도메인 이름이란?.md",
+    "Computer Science/00. loadmap/성장하는 개발자가 되고 싶다.md",
     "media/Computer Science/00. loadmap/frontend(kr).png",
     "media/Computer Science/01. Internet/connect-direct.png",
-    "Computer Science/00. loadmap/성장하는 개발자가 되고 싶다.md",
     "media/Computer Science/01. Internet",
     "media/Computer Science/00. loadmap/intro(kr).png",
-    "Computer Science/01. Internet/02. HTTP 란?.md",
     "media/Computer Science/00. loadmap",
     "language/git/Git Commit message rules.md",
-    "Computer Science/01. Internet/01. 인터넷은 어떻게 동작하는가?.md",
     "142.250.190.78.md",
     "media/Computer Science/01. Internet/connect-network-infra.png",
     "media/Computer Science/01. Internet/connect-modem.png",
@@ -164,7 +165,6 @@
     "media/Computer Science/01. Internet/connect-router-to-router.png",
     "media/Computer Science/01. Internet/connect-router.png",
     "media/Computer Science/01. Internet/connect-direct-multi.png",
-    "Computer Science/01. Internet/도메인 이름이란?.md",
     "Computer Science/00. loadmap",
     "Computer Science/01. Internet/호스팅이란?.md",
     "media/Computer Science/01.Internet/frontend(kr).png.crdownload",
