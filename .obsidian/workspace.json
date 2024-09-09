@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/01. Internet/02. HTTP 란?.md",
+                "file": "project/프로젝트 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/01. Internet/02. HTTP 란?.md",
+                "file": "project/프로젝트 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/01. Internet/02. HTTP 란?.md",
+                "file": "project/프로젝트 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/01. Internet/02. HTTP 란?.md"
+                "file": "project/프로젝트 정리.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "145935246c797cae",
   "lastOpenFiles": [
-    "Computer Science/01. Internet/01. 인터넷은 어떻게 동작하는가?.md",
     "Computer Science/01. Internet/02. HTTP 란?.md",
+    "Computer Science/01. Internet/01. 인터넷은 어떻게 동작하는가?.md",
     "Computer Science/01. Internet/도메인 이름이란?.md",
     "Computer Science/00. loadmap/성장하는 개발자가 되고 싶다.md",
     "media/Computer Science/00. loadmap/frontend(kr).png",
